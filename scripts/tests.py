@@ -12,10 +12,9 @@ import filecmp
 
 
 
-base = Path(r"G:\Mod3ExporterTests")
+base = Path(r"D:\Link\repo\mhwi_mod\chunk")
 blocktypes = set()
-chunkPath = r"E:\MHW\Merged"
-nativePC = Path(r"E:\Program Files (x86)\Steam\steamapps\common\Monster Hunter World\nativePC")
+chunkPath = r"D:\Link\repo\mhwi_mod\chunk"
 filelist = list(Path(chunkPath).rglob("*.mod3"))
 
 randomChoices = []
