@@ -1,5 +1,5 @@
 # Mod3-MHW-Importer
-Blender Mod3 Import-Exporter for Monster Hunter World. Written for Blender 2.79, no update for further Blender versions is planned (feel free to fork if you are interested in doing it yourself).
+Blender Mod3 Import-Exporter for Monster Hunter World. Updated for Blender 4.0.
 
 # Documentation
 Documentation on functionality can be found on https://github.com/Ezekial711/MonsterHunterWorldModding/wiki/Asterisk's-Plugin-Features.  
@@ -10,7 +10,8 @@ Additionaly under Asterisk's Plugin Notes are notes on the format that are not e
 As any other blender plugin. Download the zip of the project. Create a folder in your blender addon folder and drag the files in the zip there.
 
 # Author
-* **AsteriskAmpersand/\*&**
+* **AsteriskAmpersand/\*&** (Original author)
+* newvoid7
 
 # Acknowledgements
 * **Lukas Scone/Predator** - For the initial reverse engineering of the MT Framework Model Format. - [Predator's Dev Blog](https://lukascone.wordpress.com/2017/06/18/mt-framework-tools/)
